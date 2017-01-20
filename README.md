@@ -8,13 +8,13 @@ Clear is the succesor to Synthex. It runs with Roblox lua and is insanely easy t
 **To get started, put Local Clear = require(587981058) at the top of your screen**
 
 #### Example Module
+##### Eating food
 ```lua
--- Lua stuff
+-- Lua stuff that easts food?
 ```
 
 
 
-##### Eating food
 
 
 #### Client
