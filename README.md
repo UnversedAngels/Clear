@@ -1,14 +1,14 @@
 # Clear
-## Also Known As Synthex
+# Also Known As Synthex
 
-### Background
+## Background
 Clear is the succesor to Synthex. It runs with Roblox lua and is insanely easy to use. It is closed source but can still be used by all
 
-### Documentation 
+## Documentation 
 **To get started, put Local Clear = require(587981058) at the top of your screen**
 
-#### Example Module
-##### Eating food
+### Example Module
+#### Eating food
 ```lua
 -- Lua stuff that easts food?
 ```
@@ -17,26 +17,26 @@ Clear is the succesor to Synthex. It runs with Roblox lua and is insanely easy t
 
 
 
-#### Client
+### Client
 
 
-#### HTTP
+### HTTP
 
 
-#### LUA
+### LUA
 
 
-#### Remote
+### Remote
 
 
-#### Formatting
+### Formatting
 
 
-#### Discord
+### Discord
 
 
-#### Plugins
+### Plugins
 
 
-#### Service
+### Service
 
